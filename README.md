@@ -7,5 +7,5 @@ Creating a new branch is quick and simple.
 >>>>>>> featuarel
 =======
 Creating a new branch is quick.
-change
+chang
 >>>>>>> dev
